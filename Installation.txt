@@ -1,0 +1,11 @@
+Follow the steps below:
+-----------------------
+
+1. Download the git repository using git clone or copy.
+2. Add the dependencies (relevant jars)
+3. set configuration properties
+4. Create the java project into Eclipse or other IDE
+5. Build the project
+6. Run it
+
+Thanks
