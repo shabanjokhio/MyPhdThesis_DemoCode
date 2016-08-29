@@ -1,11 +1,13 @@
 Follow the steps below:
 -----------------------
 
-1. Download the git repository using git clone or copy.
-2. Add the dependencies (relevant jars)
+1. Download the git repository using following git command or download as zip.
+  git clone https://github.com/shabanjokhio/SWSTestingDemoTool.git
+
+2. Add the dependencies (required jars)
 3. set configuration properties
 4. Create the java project into Eclipse or other IDE
 5. Build the project
-6. Run it
+6. Run the Test/main class
 
 Thanks
